@@ -1,0 +1,3 @@
+/Users/yosifivanov/Documents/FMI/sdp/ThisFunc/build/CMakeFiles/rebuild_cache.dir
+/Users/yosifivanov/Documents/FMI/sdp/ThisFunc/build/CMakeFiles/edit_cache.dir
+/Users/yosifivanov/Documents/FMI/sdp/ThisFunc/build/CMakeFiles/ThisFunc.dir
